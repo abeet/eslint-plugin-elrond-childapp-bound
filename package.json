@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-elrond-childapp-bound",
+  "version": "1.0.0",
+  "description": "前端微服务的子应用不允许添加全局变量/方法、不允许写cookie的ESLint插件",
+  "author": "http://www.zving.com",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeet/eslint-plugin-elrond-childapp-bound.git"
+  },
+  "keywords": [
+    "zving",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "homepage": "https://github.com/abeet/eslint-plugin-elrond-childapp-bound#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "~3.9.1"
+  },
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "license": "ISC"
+}
